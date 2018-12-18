@@ -5,8 +5,8 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.alejandro_castilla.gwtmaven</groupId>
-    <artifactId>gwtmaven</artifactId>
+    <groupId>com.alejandro_castilla.maven_archetypes</groupId>
+    <artifactId>gwt</artifactId>
     <packaging>jar</packaging>
     <version>0.1</version>
     <name>GWT maven archetype</name>
